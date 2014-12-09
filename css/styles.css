@@ -1,3 +1,26 @@
-/*
-Aqui escribe tu codigo de CSS.
-*/
+p{
+	font-family: Arial;
+	font-size: 20px;
+}
+body table tr td img{
+float;
+margin: 3px 2px 5px 40px;
+}
+img{
+margin-left: 30px;
+}
+
+
+h1 {
+	font-family: arial;
+	float: right;
+	margin-bottom:-20px;
+	margin-right: 80px;
+}
+h4{
+	font-family: arial;
+	float: right;
+	clear: right;
+	margin bottom: -20;
+	margin-right: 80px;
+}
